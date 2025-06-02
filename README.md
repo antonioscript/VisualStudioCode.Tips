@@ -8,9 +8,15 @@ A curated collection of tips, tricks, and shortcuts to boost your productivity i
 # AWS Extension
 https://marketplace.visualstudio.com/items?itemName=AmazonWebServices.amazon-q-vscode
 
+# Additional Extensions
+
+
 # Debug
 
 https://learn.microsoft.com/pt-br/dotnet/core/tutorials/debugging-with-visual-studio-code?pivots=dotnet-8-0
+
+# Extension Icon
+https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols
 
 
 # Themes Light
