@@ -24,18 +24,30 @@ dotnet run
 ```
 
 
+**Restore dependencies**
 ```
+dotnet restore
+```
+
+
+
+**Build the application**
+```
+dotnet build
 ```
 
 
 
+**Add a NuGet package**
 ```
+dotnet add package <PackageName>
 ```
 
-```
-```
 
+
+**List installed SDKs**
 ```
+dotnet --list-sdks
 ```
 
 
