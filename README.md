@@ -78,3 +78,5 @@ dotnet --list-sdks
 # References
 
 https://code.visualstudio.com/docs/csharp/get-started
+
+https://www.linkedin.com/posts/lucasvazz_como-dar-zoom-no-vscode-com-ctrl-scroll-activity-7019477945874276352-GSYg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2o7q0BUFr8jTvluznx-vSWQu_v671QLqQ
