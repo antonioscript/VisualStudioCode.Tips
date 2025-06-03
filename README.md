@@ -30,7 +30,7 @@ https://learn.microsoft.com/pt-br/dotnet/core/tutorials/debugging-with-visual-st
 
 # CLI .NET
 
-- **Dotnet CLI Cheat Sheet** (https://cheatography.com/oba/cheat-sheets/dotnet-cli/)
+### Dotnet CLI Cheat Sheet** (https://cheatography.com/oba/cheat-sheets/dotnet-cli/)
 
 
 **Run application**
@@ -65,6 +65,28 @@ dotnet add package <PackageName>
 dotnet --list-sdks
 ```
 
+
+## Shortcuts
+
+![image](https://github.com/user-attachments/assets/1cd1e21d-798c-408c-8344-8535c7f49439)
+
+
+### Quick file navigation
+> **Tip**: You can open any file by its name when you type Ctrl+P (Quick Open).
+
+### Side Bar focus with keyboard shortcuts
+- Press ```Ctrl+0``` to put the focus in the Primary Side Bar
+- Press ```Ctrl+1``` to put the focus back in the editor
+
+### Command Palette
+- ```Ctrl+Shift+P```
+
+### Toggle Sidebar
+- ```Ctrl+B```
+
+- ### Toggle Panel
+- ```Ctrl+J```
+
 # Enable Zoom With 'Ctrl' + 'Scroll'
 
 #### 1. Click on Settings
@@ -77,6 +99,13 @@ dotnet --list-sdks
 
 # References
 
+https://code.visualstudio.com/docs/editing/editingevolved
+
+https://code.visualstudio.com/docs/getstarted/tips-and-tricks
+
 https://code.visualstudio.com/docs/csharp/get-started
+
+https://code.visualstudio.com/docs/introvideos/productivity
+
 
 https://www.linkedin.com/posts/lucasvazz_como-dar-zoom-no-vscode-com-ctrl-scroll-activity-7019477945874276352-GSYg?utm_source=share&utm_medium=member_desktop&rcm=ACoAAC2o7q0BUFr8jTvluznx-vSWQu_v671QLqQ
