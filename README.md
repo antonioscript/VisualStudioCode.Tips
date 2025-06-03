@@ -21,12 +21,15 @@ A curated collection of tips, tricks, and shortcuts to boost your productivity i
 
 https://learn.microsoft.com/pt-br/dotnet/core/tutorials/debugging-with-visual-studio-code?pivots=dotnet-8-0
 
-# Extension Icon
+# Themes Icon
 - **Symbols** (https://marketplace.visualstudio.com/items?itemName=miguelsolorio.symbols)
-
+- **Catppuccin Icon** (https://marketplace.visualstudio.com/items?itemName=Catppuccin.catppuccin-vsc-icons)
 
 # Themes Light
-
+- Min Theme (https://marketplace.visualstudio.com/items?itemName=miguelsolorio.min-theme)
+- Night Owl (https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
+- Noctis (https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
+- Solarized (https://marketplace.visualstudio.com/items?itemName=ryanolsonx.solarized)
 
 # CLI .NET
 
