@@ -1,6 +1,18 @@
 # VisualStudioCode.Tips
 A curated collection of tips, tricks, and shortcuts to boost your productivity in Visual Studio Code using C#/.NET
 
+## Summary
+- [Essential Extensions](#essential-extensions)
+- [AWS Extension](#aws-extension)
+- [Additional Extensions](#additional-extensions)
+- [Debug](#debug)
+- [Themes Icon](#themes-icon)
+- [Themes Light](#themes-light)
+- [CLI .NET](#cli-net)
+- [Shortcuts](#shortcuts)
+- [Enable Zoom With 'Ctrl' + 'Scroll'](#enable-zoom-with-ctrl--scroll)
+- [References](#references)
+
 # Essential Extensions
 - C# | https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csharp
 - C# Dev Kit | https://marketplace.visualstudio.com/items?itemName=ms-dotnettools.csdevkit
@@ -30,6 +42,7 @@ https://learn.microsoft.com/pt-br/dotnet/core/tutorials/debugging-with-visual-st
 - Night Owl (https://marketplace.visualstudio.com/items?itemName=sdras.night-owl)
 - Noctis (https://marketplace.visualstudio.com/items?itemName=liviuschera.noctis)
 - Solarized (https://marketplace.visualstudio.com/items?itemName=ryanolsonx.solarized)
+- Atom One Light (https://marketplace.visualstudio.com/items?itemName=akamud.vscode-theme-onelight)
 
 # CLI .NET
 
