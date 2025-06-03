@@ -65,6 +65,15 @@ dotnet add package <PackageName>
 dotnet --list-sdks
 ```
 
+# Enable Zoom With 'Ctrl' + 'Scroll'
+
+#### 1. Click on Settings
+![image](https://github.com/user-attachments/assets/45152cdd-8934-46dc-bdb7-0fd3a17fe768)
+
+#### 2. In the search box type 'editor.mouseWheelZoom' and mark 'true'
+![image](https://github.com/user-attachments/assets/1dbf416d-6445-43c6-aa1b-fe9350f6dec9)
+
+
 
 # References
 
